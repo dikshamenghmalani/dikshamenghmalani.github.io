@@ -229,12 +229,6 @@ body {
     box-shadow: var(--shadow-md);
 }
 
-.stat-icon {
-    font-size: 2rem;
-    display: block;
-    margin-bottom: 0.5rem;
-}
-
 .stat-number {
     display: block;
     font-size: 1.75rem;
@@ -449,11 +443,6 @@ body {
 .about-card:hover {
     transform: translateX(8px);
     box-shadow: var(--shadow-md);
-}
-
-.card-icon {
-    font-size: 2.5rem;
-    margin-bottom: 1rem;
 }
 
 .about-card h3 {
