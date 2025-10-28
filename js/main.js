@@ -303,7 +303,7 @@ window.addEventListener('load', function() {
 // CONSOLE MESSAGE (EASTER EGG)
 // ==========================================
 console.log(
-    '%c👋 Hi there!',
+    '%c👋 Hi there, fellow developer!',
     'color: #0066cc; font-size: 20px; font-weight: bold;'
 );
 console.log(
@@ -311,6 +311,6 @@ console.log(
     'color: #00b4d8; font-size: 14px;'
 );
 console.log(
-    '%cLooking to connect? Email me at menghmalani@wisc.edu',
+    '%cLet\'s build something cool together! Email: menghmalani@wisc.edu',
     'color: #4a4a4a; font-size: 14px;'
 );
